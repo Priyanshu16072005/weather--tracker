@@ -150,3 +150,6 @@ int main() {
 
     return 0;
 }
+//comment//
+// Updated: Comment added to demonstrate Git commit from VS Code
+
